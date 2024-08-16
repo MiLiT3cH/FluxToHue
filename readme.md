@@ -1,4 +1,5 @@
 HueToFlux Server:
+
 Questo script permette di controllare strisce LED cinesi (commandabili tramite libreria fluxled)
 tramite controller Philips HUE.
 
@@ -15,4 +16,4 @@ Setup:
  4) modificare nello script fluxbridge: "HUE_bridge_IP=" l'ip del bridge philips hue , e su "LED_IP=" l'ip del controller cinese da commandare
  5) avviare lo script fluxbridge.py e testare
  
-Testato personalmente con un controller pi-hub su docker e funzionava abbastanzaz bene
+Testato personalmente con un controller pi-hub su docker e funzionava abbastanza bene
